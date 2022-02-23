@@ -1,0 +1,14 @@
+name = "ARTime"
+uuid = "9badb8af-59cb-4d48-a775-3f35cfcfd143"
+authors = ["Mark Hampton <mark.hampton@ieee.org>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+RedefStructs = "91f8d46f-6a72-421b-a56e-b73459bd5e0a"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Wavelets = "29a6e085-ba6d-5f35-a997-948ac2efa89a"
