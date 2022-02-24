@@ -11,7 +11,7 @@ ARTime was developed by Mark Hampton.
 
 Stephen Grossberg and Gail Carpenter developed adaptive resonance theory (ART). Grossberg's 2021 book *Conscious Mind, Resonant Brain: How Each Brain Makes a Mind* was the major inspiration for ARTime.
 
-Numenta provided NAB to inspire innovation in anomaly detection. It was very valuable in testing ARTime.
+Numenta provided NAB to inspire innovation in anomaly detection. It was very valuable in testing ARTime. The paper introducing NAB is from Ahmad, S., Lavin, A., Purdy, S., & Agha, Z. (2017). Unsupervised real-time anomaly detection for streaming data. Neurocomputing, Available online 2 June 2017, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2017.04.070
 
 The excellent Julia package [AdaptiveResonance.jl](https://github.com/AP6YC/AdaptiveResonance.jl) was extremely useful in getting ARTime off the ground. Modifications in the DVFA implementation of AdaptiveResonance.jl led to a compact version of AdaptiveResonance being included in ARTime. 
 
