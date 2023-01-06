@@ -3,7 +3,7 @@
 This is an open source (AGPL3) and simplified version of ARTime, an anomaly detection algorithm.
 It supports the Numenta anomaly benchmark ([NAB](https://github.com/numenta/NAB)) ARTime detector.
 
-A fork of [NAB](https://github.com/markNZed/NAB/tree/ARTime) includes the ARTime detector, please start there to see & reproduce the ARTime results. The NAB Python package in that fork uses [PythonCall](https://github.com/cjdoris/PythonCall.jl) to install ARTime from this repository.
+[NAB](https://github.com/numenta/NAB) includes the ARTime detector, please start there to see & reproduce the ARTime results. The NAB Python package in that fork uses [PythonCall](https://github.com/cjdoris/PythonCall.jl) to install ARTime from this repository.
 
 ARTime was developed by Mark Hampton.
 
