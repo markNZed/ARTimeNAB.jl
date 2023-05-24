@@ -11,6 +11,8 @@ ARTime was developed by Mark Hampton.
 
 The Python JuliaCall module is used with NAB and the version of JuliaCall we are using defaults to installing the latest stable version of Julia (ignoring the Julia version in the juliacalldeps.json file at the root of NAB). ARTime is no longer compatible with the most recent Julia language. To use Julia 1.7.0 with JuliaCall you must install Julia 1.7.0 and set the environment variable: PYTHON_JULIACALL_EXE to the Julia 1.7.0 binary executable before running the ARTime detector.
 
+There is a fork of the NAB repo with a docker environment that runs ARTime at https://github.com/markNZed/NAB/tree/docker with a [README](https://github.com/markNZed/NAB/blob/docker/docker/README.txt) 
+
 # Acknowledgements
 
 Stephen Grossberg and Gail Carpenter developed adaptive resonance theory (ART). Grossberg's 2021 book *Conscious Mind, Resonant Brain: How Each Brain Makes a Mind* was the major inspiration for ARTime.
